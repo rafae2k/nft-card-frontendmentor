@@ -1,0 +1,8 @@
+{
+  "name": "nft-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "A solution to the NFT preview card component challenge on Frontend Mentor.",
+  "main": "index.js",
+  "author": "rafae2k <53544360+rafae2k@users.noreply.github.com>",
+  "license": "MIT"
+}
