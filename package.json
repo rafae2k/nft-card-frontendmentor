@@ -4,5 +4,10 @@
   "description": "A solution to the NFT preview card component challenge on Frontend Mentor.",
   "main": "index.js",
   "author": "rafae2k <53544360+rafae2k@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "tailwindcss": "^3.0.7"
+  }
 }
